@@ -1,8 +1,8 @@
-<h1>Hola, Soy Álvaro Gil</h1>
+<h1>Hello, I'm Álvaro Gil</h1>
 <hr>
 <h4>Full Stack Developer in Training</h4>
 
-<p>Bienvenido, estoy formándome en desarrollo full stack, aprendiendo tecnologías como:</p>
+<p>Welcome! I'm currently training as a full stack developer, learning technologies such as:</p>
 
 <ul>
     <li>
@@ -17,7 +17,7 @@
     <li>
         <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="24" height="24"/> Angular
     </li>
-    <!-- Añade más tecnologías aquí -->
+    <!-- Add more technologies here -->
 </ul>
 
-<p>Estoy emocionado por seguir aprendiendo y creciendo en este campo.</p>
+<p>I'm excited to continue learning and growing in this field.</p>
