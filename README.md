@@ -21,3 +21,7 @@
 </ul>
 
 <p>I'm excited to continue learning and growing in this field.</p>
+
+<h4>About Me</h4>
+
+<p>In addition to my journey in web development, I have a passion for <strong>Harley Davidson motorcycles</strong>. There's something incredibly exhilarating about the freedom and adventure that riding brings. When I'm not coding or dreaming of the open road, I enjoy spending time with my adorable dog, <strong>Dash</strong>, who never fails to brighten my day with his playful energy and affection.</p>
